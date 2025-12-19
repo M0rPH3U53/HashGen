@@ -20,13 +20,13 @@ Hash supporter
 <span style="color: #dddddd;">💪</span>SHAKE-128  
 <span style="color: #dddddd;">💪</span>SHAKE-256
 
-# ⚙️ Dépendance
+## 🚀 Dépendance
 
 ```
 ┌─[parrot@parrot]─[~]
 └──╼ $ pip install blake3
 ```
-# 👁️ Demo
+## 👁️ Demo
 
 ```
   /$$$$$$                      /$$   /$$                     /$$      
