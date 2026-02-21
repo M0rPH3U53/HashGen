@@ -5,8 +5,7 @@ from hashlib import *
 
 from blake3 import blake3
 
-print(
-    """
+print(r"""
 
   /$$$$$$                      /$$   /$$                     /$$      
  /$$__  $$                    | $$  | $$                    | $$      
@@ -18,11 +17,11 @@ print(
  \______/  \_______/|__/  |__/|__/  |__/ \_______/|_______/ |__/  |__/
 
 by M0rPH3U53                                                              
-"""
-)
-txt = input("Entrez votre texte: ")
+""")
 
-print("\n" "Hash (Sécurité forte) :" "\n")
+txt = input("Texte: ")
+
+print("\n" "🔒 Hash fort :" "\n")
 
 # SHA-512
 print("SHA512: -->", sha512(txt.encode()).hexdigest())
@@ -45,7 +44,7 @@ print("SHAKE-128: -->", shake_128(txt.encode()).hexdigest(65))
 # Shake-256
 print("SHAKE-256: -->", shake_256(txt.encode()).hexdigest(65))
 
-print("\n" "Hash (Sécurité faible) :" "\n")
+print("\n" "🔓 Hash faible :" "\n")
 
 # MD5
 print("MD5: -->", md5(txt.encode()).hexdigest())
