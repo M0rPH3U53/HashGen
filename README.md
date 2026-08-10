@@ -2,7 +2,7 @@
 
 Liste Hash 
 
-| Hash | Fort/Faible |
+| Hash | Robuste |
 | --- | --- |
 | MD5 | 💀  |
 | SHA-1 | 💀  |
