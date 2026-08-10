@@ -1,6 +1,6 @@
 # 🔒 Generateur de HASH
 
-Hash 
+Liste Hash 
 
 | Hash | Fort/Faible |
 | --- | --- |
