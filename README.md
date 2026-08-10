@@ -1,24 +1,23 @@
 # 🔒 Generateur de HASH
 
-Hash supporter
+Hash 
 
-<span style="color: #dddddd;">💀</span>MD5  
-<span style="color: #dddddd;">💀</span>SHA-1  
-<span style="color: #dddddd;">💀</span>SHA-224  
-<span style="color: #dddddd;">💀</span>SHA-256  
-<span style="color: #dddddd;">💀</span>SHA-384  
-<span style="color: #dddddd;">💪</span>SHA-512
-
-<span style="color: #dddddd;">💀</span>SHA3-224  
-<span style="color: #dddddd;">💀</span>SHA3-256  
-<span style="color: #dddddd;">💪</span>SHA3-512
-
-<span style="color: #dddddd;">💪</span>Blake2b  
-<span style="color: #dddddd;">💪</span>Blake2s  
-<span style="color: #dddddd;">💪</span>Blake3
-
-<span style="color: #dddddd;">💪</span>SHAKE-128  
-<span style="color: #dddddd;">💪</span>SHAKE-256
+| Hash | Fort/Faible |
+| --- | --- |
+| MD5 | 💀  |
+| SHA-1 | 💀  |
+| SHA-224 | 💀  |
+| SHA-256 | 💀  |
+| SHA-384 | 💀  |
+| SHA-512 | 💪  |
+| SHA3-224 | 💀  |
+| SHA3-256 | 💀  |
+| SHA3-512 | 💪  |
+| Blake2b | 💪  |
+| Blake2s | 💪  |
+| Blake3 | 💪  |
+| SHAKE-128 | 💪  |
+| SHAKE-256 | 💪  |
 
 ## 🚀 Dépendance
 
@@ -29,6 +28,8 @@ Hash supporter
 ## 👁️ Demo
 
 ```
+┌─[m0rph3u5@parrot]─[~/Scripts]
+└──╼ $python3 genhash.py
  
   /$$$$$$                      /$$   /$$                     /$$      
  /$$__  $$                    | $$  | $$                    | $$      
