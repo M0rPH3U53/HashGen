@@ -1,6 +1,6 @@
-# 🔒 Generateur de HASH
+# 🔑 Générateur de HASH
 
-Liste Hash 
+## 🔒 Liste Hash 
 
 | Hash | Robuste |
 | --- | --- |
