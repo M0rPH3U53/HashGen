@@ -1,7 +1,5 @@
-# 🔑 Générateur de HASH
-
-## 🔒 Liste Hash 
-
+# 🔒 Liste Hash 
+Générateur de HASH
 | Hash | Robuste |
 | --- | --- |
 | MD5 | 💀  |
